@@ -1,0 +1,24 @@
+.appbar-menu {
+  position: sticky;
+  display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
+}
+.thin-b-border {
+  border-bottom: thin solid #cccccc;
+}
+.menu-list {
+  display: flex;
+}
+
+.menu-item {
+  /* padding: 1rem; */
+}
+
+.menu-item a {
+  padding: 1rem !important;
+}
+
+
